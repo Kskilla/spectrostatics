@@ -1,71 +1,72 @@
 # Spectrostatics
 
-**Spectrostatics** es un experimento audiovisual en forma de *glitch-browser*.  
-Permite cargar imágenes y sonidos para combinarlos en un loop infinito:  
-la imagen se desplaza en scroll continuo, el sonido acompaña, y juntos generan  
-un paisaje visual-sonoro en permanente variación.
+**Spectrostatics** is an audiovisual experiment in the form of a *glitch-browser*.  
+It allows you to upload images and sounds to combine them in an infinite loop:  
+the image scrolls endlessly, the sound accompanies it, and together they generate  
+a visual–sonic landscape in constant variation.
 
 ---
 
-## ✨ Manifiesto de origen
+## ✨ Origin Manifesto
 
-Este proyecto fue posible **sin experiencia previa en programación**.  
-Surge del diálogo entre lenguaje humano e inteligencia artificial,  
-donde la IA funciona como traductora entre ideas y código.  
+This project was created **without prior programming experience**.  
+It emerged from a dialogue between human language and artificial intelligence,  
+where AI works as a translator between ideas and code.  
 
-Más que un desarrollo técnico, *Spectrostatics* es un acto de mediación:  
-un puente entre la intuición estética y la materialización en la web.  
-La finalidad no es la perfección del software, sino abrir un espacio creativo  
-donde **imagen y sonido se entrelazan en bucle infinito**.
-
----
-
-## ⚠️ Advertencia
-
-*Spectrostatics* genera y procesa audio en tiempo real.  
-Algunas combinaciones pueden resultar **estridentes o repetitivas**  
-y causar fatiga auditiva.  
-
-- Usa auriculares con precaución.  
-- Ajusta el volumen antes de comenzar.  
-- Interrumpe la reproducción si notas incomodidad (pitidos, mareo o cansancio).
+Rather than a technical development, *Spectrostatics* is an act of mediation:  
+a bridge between aesthetic intuition and materialization on the web.  
+The aim is not software perfection but to open a creative space  
+where **image and sound intertwine in an infinite loop**.
 
 ---
 
-## 🚀 Uso
+## ⚠️ Warning
 
-1. Abre la aplicación desplegada en la web (URL en Vercel u otro host).  
-2. Carga una **imagen** (o arrástrala al área principal).  
-3. Carga un **archivo de audio** o activa el **micrófono**.  
-4. Pulsa **Start**: la imagen comenzará a desplazarse en bucle,  
-   modulada por el sonido.
+*Spectrostatics* generates and processes audio in real time.  
+Some combinations may become **harsh or repetitive**  
+and cause listening fatigue.  
 
----
-
-## 🛠️ Estado del proyecto (WIP)
-
-*Spectrostatics* está en desarrollo activo (**Work In Progress**).  
-La versión actual ofrece la base del loop visual-sonoro,  
-pero en futuras actualizaciones se añadirán:  
-
-- Más **efectos glitch visuales** (distorsión, pixelado, desplazamiento de color).  
-- Más **efectos glitch sonoros** (procesado en tiempo real, delays, saturación).  
-- Mejoras en **UI y rendimiento** para dispositivos móviles y tablets.  
+- Use headphones with caution.  
+- Adjust the volume before starting.  
+- Stop playback if you feel discomfort (ringing, dizziness, tiredness).
 
 ---
 
-## 📂 Estructura del repositorio
+## 🚀 Usage
 
-- `src/` – Código fuente (React + Vite).  
-- `public/` – Recursos estáticos (imágenes, iconos).  
-- `index.html` – Punto de entrada de la aplicación.  
-- `README.md` – Este documento.
+1. Open the deployed application on the web (Vercel URL or other host).  
+2. Upload an **image** (or drag it into the main area).  
+3. Upload an **audio file** or activate the **microphone**.  
+4. Press **Start**: the image will begin scrolling in a loop,  
+   modulated by the sound.
 
 ---
 
-## 📜 Licencia
+## 🛠️ Project status (WIP)
 
-Uso libre para fines artísticos, experimentales y educativos.  
-Si reutilizas o modificas este proyecto, menciona su origen:  
+*Spectrostatics* is under active development (**Work In Progress**).  
+The current version offers the basis of the visual–sound loop,  
+but future updates will add:  
+
+- More **visual glitch effects** (distortion, pixelation, color shift).  
+- More **sound glitch effects** (real-time processing, delays, saturation).  
+- Improvements in **UI and performance** for mobile and tablets.  
+
+---
+
+## 📂 Repository structure
+
+- `src/` – Source code (React + Vite).  
+- `public/` – Static assets (images, icons).  
+- `index.html` – Application entry point.  
+- `README.md` – This document.  
+- `README.es.md` – Spanish version.
+
+---
+
+## 📜 License
+
+Free to use for artistic, experimental, and educational purposes.  
+If you reuse or modify this project, please credit its origin:  
 **Spectrostatics (2025)**.
 
